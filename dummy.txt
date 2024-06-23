@@ -2,6 +2,3 @@ uploading file
 File is pulled successfully
 ok now again commit
 again commit
-
-creating new branch,
-
