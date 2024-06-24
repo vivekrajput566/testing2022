@@ -3,4 +3,8 @@ File is pulled successfully
 ok now again commit
 again commit
 
+<<<<<<< HEAD
+=======
+creating new branch,
+>>>>>>> b61d6f9fa734e2990f0a0fae039e9bb5cd938336
 
